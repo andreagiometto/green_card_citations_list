@@ -4,8 +4,11 @@ Creates a list of all papers citing an author's papers based on his/her Google S
 This is a Python 3 Jupyter notebook. It requires Google Chrome, a Google Scholar profile and a few Python packages that can be installed from the command line using pip:
 
 pip install pdfkit
+
 pip install wkhtmltopdf
+
 pip install selenium
+
 pip install PyPDF2
 
 Check version of google chrome in Chrome->About Google Chrome (update if necessary)
