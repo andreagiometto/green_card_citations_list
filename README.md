@@ -1,5 +1,5 @@
 # Green card citations list EB1B
-Creates a list of all papers citing an author's papers based on his/her Google Scholar profile. This document is useful for the Green Card EB1B application.
+Creates a list of all papers citing an author's work based on his/her Google Scholar profile. This document is useful for the Green Card EB1B application.
 
 This is a Python 3 Jupyter notebook. It requires Google Chrome, a Google Scholar profile and a few Python packages that can be installed from the command line using pip:
 
